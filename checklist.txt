@@ -1,0 +1,24 @@
+DONE:
+
+Character Movement
+Character Animation
+
+Enemies
+    AI
+    Mesh
+Gun class
+    Abstract class to create blueprints from
+
+    Ammo
+    Sound
+    Damage
+    Particle effects
+
+UI
+    HUD with health, crosshairs, and Ammo
+    Main menu
+        Play game
+        About game
+        options
+        quit
+
